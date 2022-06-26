@@ -1,6 +1,6 @@
 ### Olá devs 👋
 
-Desenvolvedor Full Stack em constante aprendizado.
+Desenvolvedor iniciante em constante aprendizado.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
